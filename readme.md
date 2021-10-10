@@ -1,6 +1,6 @@
 # React Quiz
 
-## live preview :
+## live preview : https://td-react-quiz.netlify.app
 
 this project is made with react js. by doing this project i have learned
 
